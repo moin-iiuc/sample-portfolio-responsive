@@ -1,0 +1,34 @@
+nav{
+    background-color: teal;
+    color:white;
+}
+.navbar{
+    color:white;
+}
+
+.navbar-nav li a:hover{
+    font-weight: bolder;
+}
+.nav-item a{
+    font-weight: bold;
+
+}
+.banner-container button{
+    background-color: darkcyan;
+    border:none;
+}
+.banner-container h1{
+    color:darkcyan;
+}
+.title{
+    color:darkcyan;
+}
+.contact{
+    color:darkcyan;
+}
+.footer-container{
+    background-color: teal;
+}
+.foot{
+    background-color: darkcyan;
+}
